@@ -8,16 +8,16 @@ import Script from "next/script"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Your Name | Senior QA Engineer",
+  title: "Mubashir Siddiqui | Senior QA Engineer",
   description:
     "8+ years experience in quality assurance, test automation, and CI/CD pipelines. Expert in Selenium, Cypress, Playwright, and building robust testing frameworks for enterprise applications.",
   keywords:
     "senior QA engineer, test automation, Selenium, Cypress, Playwright, QA lead, quality assurance, software testing, CI/CD, Muhammad Mubashir Siddiqui",
-  authors: [{ name: "Your Name" }],
+  authors: [{ name: "Mubashir Siddiqui" }],
   openGraph: {
     type: "website",
     url: "https://yourwebsite.github.io/",
-    title: "Your Name | Senior QA Engineer",
+    title: "Mubashir Siddiqui | Senior QA Engineer",
     description:
       "8+ years experience in quality assurance and test automation. Expert in building robust testing frameworks for enterprise applications.",
     images: [
@@ -25,13 +25,13 @@ export const metadata: Metadata = {
         url: "https://yourwebsite.github.io/images/cover.jpg",
         width: 1200,
         height: 630,
-        alt: "Your Name - Senior QA Engineer",
+        alt: "Mubashir Siddiqui - Senior QA Engineer",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Your Name | Senior QA Engineer",
+    title: "Mubashir Siddiqui | Senior QA Engineer",
     description:
       "8+ years experience in quality assurance and test automation. Expert in building robust testing frameworks for enterprise applications.",
     images: ["https://yourwebsite.github.io/images/cover.jpg"],
@@ -69,7 +69,7 @@ export default function RootLayout({
         <meta name="robots" content="index, follow" />
         <meta name="language" content="English" />
         <meta name="revisit-after" content="7 days" />
-        <meta name="author" content="Your Name" />
+        <meta name="author" content="Mubashir Siddiqui" />
 
         {/* Schema.org JSON-LD */}
         <Script
@@ -79,7 +79,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              name: "Your Name",
+              name: "Mubashir Siddiqui",
               jobTitle: "Senior QA Engineer",
               url: "https://yourwebsite.github.io",
               sameAs: [
