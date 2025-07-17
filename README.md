@@ -6,7 +6,6 @@ A modern, responsive portfolio website built with **Next.js 14**, **TypeScript**
 - ⚡ Fast, static export with Next.js
 - 🎨 Styled with Tailwind CSS (customizable themes)
 - 🧩 Modular, reusable React components
-- 🌙 Dark mode support
 - 📱 Fully responsive design
 - 📝 TypeScript for type safety
 - 🛠️ Custom hooks and utility functions
