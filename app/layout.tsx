@@ -54,13 +54,13 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         {/* Google Analytics */}
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-RWK0813E6S" strategy="afterInteractive" />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script  strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">src="https://www.googletagmanager.com/gtag/js?id=G-RWK0813E6S"
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config',  'G-RWK0813E6S');
+            gtag('config', 'G-RWK0813E6S');
           `}
         </Script>
 
