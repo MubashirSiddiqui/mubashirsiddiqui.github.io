@@ -98,8 +98,8 @@ export function HeroSection() {
                 asChild
               >
                 <a
-                  href="/downloads/Mubashir_Siddiqui_Resume.pdf"
-                  download="Mubashir_Siddiqui_Resume.pdf"
+                  href="/downloads/mubashir_siddiqui_resume.pdf"
+                  download="mubashir_siddiqui_resume.pdf"
                   onClick={trackResumeDownload}
                 >
                   Download Resume
@@ -109,17 +109,17 @@ export function HeroSection() {
 
             <div className="flex justify-center lg:justify-start space-x-4 lg:space-x-6">
               <Button variant="ghost" size="icon" className="hover:text-teal-600" asChild>
-                <a href="https://github.com/mubashir" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/mubashirsiddiqui" target="_blank" rel="noopener noreferrer">
                   <Github className="h-5 w-5 lg:h-6 lg:w-6" style={{height:'25px', width:'25px'}} />
                 </a>
               </Button>
               <Button variant="ghost" size="icon" className="hover:text-teal-600" asChild>
-                <a href="https://www.linkedin.com/in/mubashir" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/mubashirsiddiquii" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-5 w-5 lg:h-6 lg:w-6" style={{height:'25px', width:'25px'}} />
                 </a>
               </Button>
               <Button variant="ghost" size="icon" className="hover:text-teal-600" asChild>
-                <a href="mailto:mubashir.siddiqui@example.com">
+                <a href="mailto:mmubashir6@outlook.com">
                   <Mail className="h-5 w-5 lg:h-6 lg:w-6" style={{height:'25px', width:'25px'}} />
                 </a>
               </Button>

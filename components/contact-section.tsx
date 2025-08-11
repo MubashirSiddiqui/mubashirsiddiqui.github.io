@@ -63,8 +63,8 @@ export function ContactSection() {
     {
       icon: Mail,
       label: "Email",
-      value: "mubashir.siddiqui@thevisionspark.com",
-      href: "mailto:mubashir.siddiqui@thevisionspark.com",
+      value: "mmubashir6@outlook.com",
+      href: "mailto:mmubashir6@outlook.com",
     },
     {
       icon: Phone,
