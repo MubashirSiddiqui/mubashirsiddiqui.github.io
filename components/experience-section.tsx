@@ -47,7 +47,7 @@ export function ExperienceSection() {
       title: "QA Automation Engineer",
       company: "RIKSOF PVT. Ltd",
       location: "Karachi, Pakistan",
-      period: "Mar 2019 – Oct 2019",
+      period: "Mar 2019 – Sept 2019",
       description:
         "Collaborated with multiple clients to develop test scripts for ERP solutions and manually tested game applications.",
       technologies: ["Slack", "MySQL", "Selenium", "Appium", "Netbeans", "Trello"],
