@@ -133,7 +133,7 @@ export function HeroSection() {
            {/*<div className="w-80 h-80 sm:w-88 sm:h-88 md:w-96 md:h-96 lg:w-96 lg:h-96 rounded-full bg-gradient-to-r from-teal-600 to-teal-600 p-2">*/}
                 <div className="w-full h-full rounded-full overflow-hidden bg-background">
                   <Image
-                    src="/images/profile.jpg"
+                    src="/images/profile.png"
                     alt="Mubashir Siddiqui"
                     width={320}
                     height={320}
